@@ -219,7 +219,7 @@ body {
     padding: 0.5em 0.75em;
     cursor: pointer;
     font-size: 0.85em;
-    color: $formulate-gray-dark;
+    color: $formulate-gray-ddd;
     border-radius: 4px;
     white-space: nowrap;
     transition: background-color 0.15s, color 0.15s;

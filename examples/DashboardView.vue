@@ -214,7 +214,7 @@ export default {
   }
 
   &__subtitle {
-    color: $formulate-gray-dark;
+    color: $formulate-gray-ddd;
     font-size: 1.1em;
     margin: 0;
   }
@@ -224,7 +224,7 @@ export default {
 
     &-title {
       font-size: 1.25em;
-      color: $formulate-gray-dark;
+      color: $formulate-gray-ddd;
       border-bottom: 1px solid $formulate-gray;
       padding-bottom: 0.5em;
       margin-bottom: 1.25em;
@@ -263,13 +263,13 @@ export default {
   &__action-label {
     font-weight: 600;
     font-size: 0.95em;
-    color: $formulate-gray-dark;
+    color: $formulate-gray-ddd;
     margin-bottom: 0.25em;
   }
 
   &__action-desc {
     font-size: 0.8em;
-    color: lighten($formulate-gray-dark, 20%);
+    color: lighten($formulate-gray-ddd, 20%);
     line-height: 1.4;
   }
 
@@ -296,7 +296,7 @@ export default {
 
     h3 {
       margin: 0 0 0.75em;
-      color: $formulate-gray-dark;
+      color: $formulate-gray-ddd;
       font-size: 1em;
     }
 
